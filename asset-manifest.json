@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f74b84ad.chunk.css",
+    "main.js": "./static/js/main.c8d7b999.chunk.js",
+    "main.js.map": "./static/js/main.c8d7b999.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.07b15bfd.chunk.js": "./static/js/2.07b15bfd.chunk.js",
+    "static/js/2.07b15bfd.chunk.js.map": "./static/js/2.07b15bfd.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.f74b84ad.chunk.css.map": "./static/css/main.f74b84ad.chunk.css.map",
+    "static/js/2.07b15bfd.chunk.js.LICENSE.txt": "./static/js/2.07b15bfd.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/arrow-right.af87a514.svg",
+    "static/media/CartCard.scss": "./static/media/Plus.60b4bc00.svg",
+    "static/media/ButtonAndLike.scss": "./static/media/Favourites.341c6a64.svg",
+    "static/media/Breadcrumbs.scss": "./static/media/arrow-right-gray.a374b573.svg",
+    "static/media/Navbar.scss": "./static/media/bag.89133a0a.svg",
+    "static/media/ProductList.scss": "./static/media/arrow-up-gray.1ea6958a.svg",
+    "static/media/TitleOfPage.scss": "./static/media/arrow-left.134598a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.07b15bfd.chunk.js",
+    "static/css/main.f74b84ad.chunk.css",
+    "static/js/main.c8d7b999.chunk.js"
+  ]
+}
