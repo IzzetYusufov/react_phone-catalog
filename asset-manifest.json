@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.02648eae.chunk.css",
-    "main.js": "./static/js/main.2821d238.chunk.js",
-    "main.js.map": "./static/js/main.2821d238.chunk.js.map",
+    "main.css": "./static/css/main.6dd74312.chunk.css",
+    "main.js": "./static/js/main.61af7337.chunk.js",
+    "main.js.map": "./static/js/main.61af7337.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.07b15bfd.chunk.js": "./static/js/2.07b15bfd.chunk.js",
     "static/js/2.07b15bfd.chunk.js.map": "./static/js/2.07b15bfd.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.02648eae.chunk.css.map": "./static/css/main.02648eae.chunk.css.map",
+    "static/css/main.6dd74312.chunk.css.map": "./static/css/main.6dd74312.chunk.css.map",
     "static/js/2.07b15bfd.chunk.js.LICENSE.txt": "./static/js/2.07b15bfd.chunk.js.LICENSE.txt",
     "static/media/AccessoriesCategory.fcfc0e03.jpg": "./static/media/AccessoriesCategory.fcfc0e03.jpg",
     "static/media/CartCard.scss": "./static/media/Plus.60b4bc00.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.07b15bfd.chunk.js",
-    "static/css/main.02648eae.chunk.css",
-    "static/js/main.2821d238.chunk.js"
+    "static/css/main.6dd74312.chunk.css",
+    "static/js/main.61af7337.chunk.js"
   ]
 }
