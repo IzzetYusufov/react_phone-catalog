@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.612a2cf7.chunk.css",
-    "main.js": "./static/js/main.a24f8b77.chunk.js",
-    "main.js.map": "./static/js/main.a24f8b77.chunk.js.map",
+    "main.css": "./static/css/main.e900a838.chunk.css",
+    "main.js": "./static/js/main.259407ea.chunk.js",
+    "main.js.map": "./static/js/main.259407ea.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.fb5eb763.chunk.js": "./static/js/2.fb5eb763.chunk.js",
     "static/js/2.fb5eb763.chunk.js.map": "./static/js/2.fb5eb763.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.612a2cf7.chunk.css.map": "./static/css/main.612a2cf7.chunk.css.map",
+    "static/css/main.e900a838.chunk.css.map": "./static/css/main.e900a838.chunk.css.map",
     "static/js/2.fb5eb763.chunk.js.LICENSE.txt": "./static/js/2.fb5eb763.chunk.js.LICENSE.txt",
+    "static/media/NotFoundPage.scss": "./static/media/404Error.ea0e6193.png",
     "static/media/AccessoriesCategory.fcfc0e03.jpg": "./static/media/AccessoriesCategory.fcfc0e03.jpg",
     "static/media/CartCard.scss": "./static/media/Plus.60b4bc00.svg",
     "static/media/ButtonAndLike.scss": "./static/media/Favourites.341c6a64.svg",
@@ -21,13 +22,15 @@
     "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
     "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
     "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/CommingSoonPage.scss": "./static/media/comming-soon.5abd2bd8.png",
+    "static/media/NoSearchResults.scss": "./static/media/no-result.6c627e7b.png",
     "static/media/phonesCategory.a00f2a53.jpg": "./static/media/phonesCategory.a00f2a53.jpg",
     "static/media/tabletsCategory.d9570974.jpg": "./static/media/tabletsCategory.d9570974.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.fb5eb763.chunk.js",
-    "static/css/main.612a2cf7.chunk.css",
-    "static/js/main.a24f8b77.chunk.js"
+    "static/css/main.e900a838.chunk.css",
+    "static/js/main.259407ea.chunk.js"
   ]
 }
